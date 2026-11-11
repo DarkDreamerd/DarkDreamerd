@@ -53,17 +53,16 @@ a server network with its own launcher, mods and forum
 
 ### Contacts
 
-<a href="https://discord.com/users/DISCORD_ID"><img src="https://img.shields.io/badge/Discord-.4life-262b57?style=for-the-badge&logo=discord&logoColor=9fe8f5"/></a>
+<a href="https://discord.com/users/273047248416538625"><img src="https://img.shields.io/badge/Discord-.4life-262b57?style=for-the-badge&logo=discord&logoColor=9fe8f5"/></a>
 <a href="https://echo-assistants.tech"><img src="https://img.shields.io/badge/Echo-echo--assistants.tech-262b57?style=for-the-badge&logo=googlechrome&logoColor=9fe8f5"/></a>
 <img src="https://komarev.com/ghpvc/?username=GITHUB_NICK&style=for-the-badge&color=262b57&label=views"/>
 
 ### Activity
 
-<img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GITHUB_NICK&theme=tokyonight"/>
 
-<p>
-<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg"/>
-<img height="170" src="./profile-summary-card-output/tokyonight/4-productive-time.svg"/>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GITHUB_NICK&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GITHUB_NICK&theme=tokyonight&timeZone=Europe/Amsterdam"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:2bb3c9,40:262b57,100:141729&height=90&section=footer&rotate=6"/>
